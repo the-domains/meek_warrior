@@ -1,0 +1,28 @@
+name: meek_warrior
+favicon: null
+layout_spectrum: 0.46187752671539783
+typography_spectrum: 0.7708516921848059
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7521541444584727
+  lightness: 0.2790881930850446
+  saturation: 0.8979869761969894
+  rhythmicContrast: 0.8615408283658326
+purpose: []
